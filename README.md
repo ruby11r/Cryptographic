@@ -1,5 +1,5 @@
 # Cryptographic
-Fundamentals of cryptography
+Addressing essentials of cryptography
 
 ### 1. Prime number generation
 Prime numbers are fundamental to modern cryptography because they provide the mathematical foundation for secure encryption systems, especially in public-key cryptography. 
